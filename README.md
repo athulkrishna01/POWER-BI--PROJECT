@@ -11,7 +11,7 @@ Easy-to-understand charts and KPIs
 User-friendly interface for data exploration
 
 🛠️ Technologies Used
-Power BI Desktop (.pbix)
+Power BI Desktop (https://github.com/athulkrishna01/POWER-BI--PROJECT)
 Data Sources: (Specify data sources like Excel, SQL, APIs, etc.)
 
 🚀 How to Use
@@ -20,4 +20,4 @@ Open it using Power BI Desktop.
 Refresh the data if needed and explore the dashboards.
 
 📧 Contact
-For questions or feedback, feel free to reach out: [Your Email]
+For questions or feedback, feel free to reach out: [athul7575@gmail.com]
